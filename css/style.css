@@ -638,6 +638,7 @@ progress{
 	.pd-block{
 		align-self: center !important;
 		margin: 20px 0;
+		width: 90%;
 	}
 	.decoration{
 		display: none
